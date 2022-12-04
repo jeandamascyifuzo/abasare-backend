@@ -14,7 +14,6 @@ import {
 
 const router = express.Router();
 
-
 /**
  * @swagger
  * components:
